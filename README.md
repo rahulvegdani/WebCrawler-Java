@@ -1,3 +1,14 @@
+## 📘 Academic Context
+
+This project was developed as part of the **Data Structures** course.
+It demonstrates practical implementation of core data structure concepts such as:
+- Graph representation (URL link graph)
+- Queue-based traversal
+- Hash-based visited tracking
+- Concurrent data structures
+
+
+
 \# Multithreaded Web Crawler in Java
 
 
